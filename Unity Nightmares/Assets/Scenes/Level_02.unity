@@ -1879,7 +1879,7 @@ GameObject:
   - 114: {fileID: 904162783}
   - 225: {fileID: 904162782}
   - 95: {fileID: 904162786}
-  - 114: {fileID: 904162787}
+  - 114: {fileID: 904162788}
   m_Layer: 5
   m_Name: HUDCanvas
   m_TagString: Untagged
@@ -1989,7 +1989,7 @@ Animator:
   m_ApplyRootMotion: 1
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &904162787
+--- !u!114 &904162788
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -2000,7 +2000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c9e0011c2ed97428a4efc03b455359, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 99660414}
   restartDelay: 5
 --- !u!1 &951189517
 GameObject:
